@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "380545121540",
+    "project_id": "notes-68a1d",
+    "storage_bucket": "notes-68a1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380545121540:android:7f32de82eb9606c34fe451",
+        "android_client_info": {
+          "package_name": "com.example.flutter_note_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380545121540-ch771irfo9fm9moja0ra68hlifh5ikrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_note_app",
+            "certificate_hash": "6c39e786bf990da06e3cd802dc272eff337b8bf3"
+          }
+        },
+        {
+          "client_id": "380545121540-k1ee4t6mk3vmj4dm6ohecf8k66a9u0ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB52ePZAf04Caw1YTIWU_Th5Gq_D_f_qyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380545121540-2jqj393tv1q0osn3br7pdscnaul9jqat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380545121540:android:2ca11092fc10e29f4fe451",
+        "android_client_info": {
+          "package_name": "com.example.task_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380545121540-k1ee4t6mk3vmj4dm6ohecf8k66a9u0ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB52ePZAf04Caw1YTIWU_Th5Gq_D_f_qyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380545121540-2jqj393tv1q0osn3br7pdscnaul9jqat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
